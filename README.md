@@ -1,6 +1,5 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Bstijn&color=ff69b4&style=flat-square&label=👀)
 <div align="center">
-    <h2>My Stats</h2>
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bstijn&theme=Gradient&count_private=true&layout=compact" alt="My top languages"/>
     </p>
